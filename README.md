@@ -34,7 +34,7 @@ Feel free to reach out to me or connect with me on  [LinkedIn](www.linkedin.com/
 You can also find me on:
 
 - Email: ahsanhabiib00@gmail.com
-- Instagram: [Click here](https://www.instagram.com/ahsan_habib001?igsh=MTVvdHlobm11eWNseA==)
+- Instagram: [Click here](https://www.instagram.com/ahsan_habib001)
 - Facebook: [Click here](https://www.facebook.com/share/1AFKJp1U5a/)
 
 
