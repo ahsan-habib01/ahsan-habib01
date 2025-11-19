@@ -2,15 +2,16 @@
 
 ---
 
-# 💫 About Me:
-Hi, I’m **Ahsan Habib**, a passionate Frontend Developer in progress.
+#  About Me:
+### Hey 👋, I’m **Ahsan Habib!**
+a passionate Frontend Developer in progress.
 I love building modern, responsive web applications and continuously improving my skills by learning and working on real projects.
 
 *“I believe in consistent learning and building. Code, improve, repeat.”*
 
 ---
 
-# ⚙️ Tech & Learning Overview
+#  Tech & Learning Overview
 | Category              | Technologies                           |
 | --------------------- | -------------------------------------- |
 | Languages             |![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)                    |
@@ -21,7 +22,7 @@ I love building modern, responsive web applications and continuously improving m
 
 ---
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 | Top Languages             | GitHub Stats                      | GitHub Streak                          |
 | --------------------- | -------------------------------------- | -------------------------------------- |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan-habib01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-readme-stats.vercel.app/api?username=ahsan-habib01&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=ahsan-habib01&theme=dark&hide_border=false) |
