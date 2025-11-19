@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&size=30&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;Welcome+To+My+Profile!)](https://git.io/typing-svg)
+
+---
+
 # 💫 About Me:
 Hi, I’m **Ahsan Habib**, a passionate Frontend Developer in progress.
 I love building modern, responsive web applications and continuously improving my skills by learning and working on real projects.
@@ -6,7 +10,7 @@ I love building modern, responsive web applications and continuously improving m
 
 ---
 
-# 📊 Tech & Learning Overview
+# ⚙️ Tech & Learning Overview
 | Category              | Technologies                           |
 | --------------------- | -------------------------------------- |
 | Languages             |![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)                    |
@@ -33,7 +37,5 @@ You can also find me on:
 - Instagram: [Click here](https://www.instagram.com/ahsan_habib001?igsh=MTVvdHlobm11eWNseA==)
 - Facebook: [Click here](https://www.facebook.com/share/1AFKJp1U5a/)
 
----
-[![](https://visitcount.itsvg.in/api?id=ahsan-habib01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
