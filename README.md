@@ -17,15 +17,21 @@ I love building modern, responsive web applications and continuously improving m
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-habib01) 
-
----
-
 # 📊 GitHub Stats:
 | Top Languages             | GitHub Stats                      | GitHub Streak                          |
 | --------------------- | -------------------------------------- | -------------------------------------- |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan-habib01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-readme-stats.vercel.app/api?username=ahsan-habib01&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=ahsan-habib01&theme=dark&hide_border=false) |
+
+---
+
+## 🌐 Contact
+Feel free to reach out to me or connect with me on  [LinkedIn](www.linkedin.com/in/ahsan-habib01)
+
+You can also find me on:
+
+- Email: ahsanhabiib00@gmail.com
+- Instagram: [Click here](https://www.instagram.com/ahsan_habib001?igsh=MTVvdHlobm11eWNseA==)
+- Facebook: [Click here](https://www.facebook.com/share/1AFKJp1U5a/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahsan-habib01&icon=0&color=0)](https://visitcount.itsvg.in)
