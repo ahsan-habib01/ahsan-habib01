@@ -1,9 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&size=30&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;Welcome+To+My+Profile!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&vCenter=true&width=435&lines=Welcome+to+My+Profile!++%F0%9F%91%8B)](https://git.io/typing-svg)
 ---
 
-#  About Me:
-### Hey 👋, I’m **Ahsan Habib!**
+
+## Hey 👋, I’m **Ahsan Habib!**
 a passionate Frontend Developer in progress.
 I love building modern, responsive web applications and continuously improving my skills by learning and working on real projects.
 
